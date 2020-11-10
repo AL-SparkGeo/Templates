@@ -18,7 +18,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AL-SparkGeo/Templates">
-    <img src="/images/sparkgeo-logo.png" width="120" height="120">
+    <img src="./images/sparkgeo-logo.png">
   </a>
   <h3 align="center">Spatial-on-Demand Health Checker</h3>
 </p>
