@@ -27,7 +27,7 @@
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents
 
-* [About this Code(#about-the-project)
+* [About this Program](#about-the-project)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
@@ -48,13 +48,13 @@ Features
 ```
 
 ```markdown
-ADDITIONAL INFORMATION HERE ABOUT SUPPORTED FILES, ETC.
+ADDITIONAL INFORMATION HERE ABOUT SUPPORTED FILES, CAPABILITIES OF THE FILE, ETC
 ```
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-[LIST OF SET-UP STEPS HERE]
+[LIST OF SET-UP STEPS HERE, BE AS DETAILED AS POSSIBLE]
 
 ### Prerequisites
 
@@ -114,6 +114,6 @@ Project Link: [https://github.com/sparkgeo/](https://github.com/sparkgeo/)
 
 Readme template edited by Alex Leamy
 
--Based off original template from Othniel Drew [https://github.com/othneildrew/Best-README-Template] (https://github.com/othneildrew/Best-README-Template)
+Based off original template from Othniel Drew [https://github.com/othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
 
